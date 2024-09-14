@@ -1,0 +1,68 @@
+#CheatSheet
+--------------- Characters -------------------
+Hacked Character Panda
+url : panda.png
+width : 175px;
+height : 300px;
+
+
+Greasly Character
+url : greas.png
+width : 165px;
+height : 170px;
+
+Main Character Ice
+url : ice.png
+width : 90px;
+height : 170px;
+
+Character Bears
+url : bears.png
+width : 125px;
+height : 200px;
+--------------------------------------------------------------
+
+------------ obstacle------
+url : eboo.png
+width : 160px;
+height : 150px;
+
+
+url : dog.gif
+width : 200px;
+height : 150px;
+-----------------------------
+
+
+------------ Game Mode -------------------------
+Easy
+newDur = aniDur;
+
+Medium
+newDur = aniDur - 0.01;
+
+Hard
+newDur = aniDur - 1.00;
+----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
